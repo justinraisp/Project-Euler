@@ -1,7 +1,3 @@
-
-import time
-import math
-
 def je_prastevilo(n):
     if n <= 2:
         return n == 2
